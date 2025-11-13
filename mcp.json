@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "add-numbers": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["build/index.js"]
+    }
+  }
+}
